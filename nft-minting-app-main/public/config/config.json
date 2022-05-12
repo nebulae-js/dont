@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE5f7e12E47562bf7cceA01ff861ff1D43e8DFdFF",
+  "SCAN_LINK": "https://polygonscan.com/address/0xE5f7e12E47562bf7cceA01ff861ff1D43e8DFdFF",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DON'T BUY Don't buy",
+  "SYMBOL": "DNTB",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.039,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dontbuydontbuy",
+  "SHOW_BACKGROUND": true
+}
